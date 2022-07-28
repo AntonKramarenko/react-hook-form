@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background: rgb(132, 83, 212);
+  height: 100vh;
+  padding: 50px 50px;
+ 
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+h1{
+  margin: 0;
+  padding: 0;
+}
+
